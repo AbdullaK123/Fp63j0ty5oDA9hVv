@@ -12,3 +12,8 @@ wheels/
 # mlflow stuff
 mlartifacts/
 mlruns/
+*.json
+
+
+#vs code stuff
+.vscode

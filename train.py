@@ -8,6 +8,9 @@ from config import settings
 from logs import logger
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import shap
+from shap.plots import bar, beeswarm
 
 def train_model():
 
@@ -28,7 +31,11 @@ def train_model():
         )
 
         model.fit(X_train, y_train)
+        
 
+        # log importances and shap values
+
+        # importances
         feature_importances_df = pd.DataFrame({
             'feature': feature_names,
             'importance': model.coef_[0],
@@ -41,6 +48,33 @@ def train_model():
             f.write(feature_importances_json)
 
         mlflow.log_artifact('feature_importances.json')
+
+        #shap values
+        explainer = shap.Explainer(model, X_train)
+        shap_values = explainer(X_test)
+        shap_values = shap.Explanation(
+            values=np.asarray(shap_values.values, dtype=float),
+            base_values=np.asarray(shap_values.base_values, dtype=float),
+            data=np.asarray(X_test, dtype=float),
+            feature_names=feature_names
+        )
+
+        beeswarm(shap_values, max_display=20)
+        plt.savefig('shap_values_beeswarm.png', dpi=300, bbox_inches='tight')
+        plt.close()
+
+        mlflow.log_artifact('shap_values_beeswarm.png')
+
+        bar(shap_values, max_display=20)
+        plt.savefig('shap_values_bar.png', dpi=300, bbox_inches='tight')
+        plt.close()
+
+        mlflow.log_artifact('shap_values_bar.png')
+        
+        np.save("shap_values.npy", shap_values.values)  # save as .npy
+
+        # Then log with mlflow
+        mlflow.log_artifact("shap_values.npy")
 
         y_pred = model.predict(X_test)
 
