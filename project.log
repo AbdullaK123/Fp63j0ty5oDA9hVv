@@ -1,0 +1,2 @@
+2025-05-23 22:15:10 | WARNING  | logs:31 | <module>() | This shows in both console and file
+2025-05-23 22:15:10 | ERROR    | logs:32 | <module>() | Error goes everywhere

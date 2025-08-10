@@ -1,0 +1,512 @@
+[
+  {
+    "feature":"cat__Country_Australia",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Belgium",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_California",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Cameroon",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Canada",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_China",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Colombia",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Egypt",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_France",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Germany",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_India",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Iran",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Italy",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Mexico",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Morocco",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Netherlands",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Nigeria",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Portugal",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Qatar",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Romania",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Russia&Ukraine",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Saudi Arabia",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Singapore",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_South Africa",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Spain",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Switzerland",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Taiwan",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_UK",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_USA",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_United Arab Emirates",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Country_Unknown",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B1",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B10",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B11",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B12",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B14",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B15",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B16",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B17",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B19",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B20",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B21",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B23",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B24",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B25",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B26",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B27",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B28",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B29",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B3",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B30",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B4",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B5",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B6",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B8",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Education_B9",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Status_1st message",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Status_2nd message",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Status_3rd message",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"cat__Status_Unknown",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_year",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_month",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_day",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_weekday",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_hour",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_is_weekend",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_is_month_start",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_is_month_end",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_is_quarter_start",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_is_quarter_end",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_is_year_start",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_is_year_end",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_day_of_year",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"date__First Contact_week_of_year",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Signed up for a demo_has_value",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Signed up for a demo_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Signed up for a demo_binned",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Filled in customer survey_has_value",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Filled in customer survey_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Filled in customer survey_binned",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Account Manager assigned_has_value",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Account Manager assigned_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Account Manager assigned_binned",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Signed up for a demo_has_value",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Signed up for a demo_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Signed up for a demo_log1p",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Signed up for a demo_binned",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Filled in customer survey_has_value",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Filled in customer survey_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Filled in customer survey_log1p",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Filled in customer survey_binned",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Did sign up to the platform_has_value",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Did sign up to the platform_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Did sign up to the platform_log1p",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Did sign up to the platform_binned",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Account Manager assigned_has_value",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Account Manager assigned_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Account Manager assigned_log1p",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Call to Account Manager assigned_binned",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Last Contact_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to First Call_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  },
+  {
+    "feature":"num__Days from First Contact to Did sign up to the platform_scaled",
+    "importance":-0.0142995663,
+    "abs_importance":0.0142995663
+  }
+]
